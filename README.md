@@ -2,7 +2,7 @@
 
 This repository contains Evidence-Based Investment Selection Bayesian Network (EBIS BN). 
 
-Currently an AgenaRisk model file is available. 
+Currently an AgenaRisk model file is available (EBIS_BN.cmpx). The model can be edited or executed using AgenaRisk (http://www.agenarisk.com/)
 
 Please cite: 
 
