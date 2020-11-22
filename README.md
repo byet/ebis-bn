@@ -1,4 +1,4 @@
-# EBIS BN - Evidence-Based Investment Selection (EBIS) Bayesian Network (BN)
+# EBIS BN - Evidence-Based Investment Selection Bayesian Network
 
 This repository contains Evidence-Based Investment Selection Bayesian Network (EBIS BN). 
 
